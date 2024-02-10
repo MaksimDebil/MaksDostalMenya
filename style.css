@@ -1,0 +1,17 @@
+body {
+    font-family: sans-serif;
+}
+header img {
+    width: 100px;
+    height: 85px;
+}
+nav {
+    border: 2px solid black;
+    border-radius: 60px;
+    padding: 2px;
+}
+nav a {
+    color: darkcyan;
+    margin-right: 30px;
+    margin-left:30px ;
+}
